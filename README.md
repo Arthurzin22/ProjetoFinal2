@@ -9,3 +9,6 @@ HTML: Para estruturar e organizar o conteúdo da página.
 CSS: Para estilizar o layout e design visual do site. 
 JavaScript: Para adicionar interatividade e funcionalidades dinâmicas ao site.
 Visual Studio Code: Para editar o código-fonte e facilitar o desenvolvimento.
+
+
+https://arthurzin22.github.io/ProjetoFinal2/Projeto%20final/
